@@ -15,7 +15,7 @@ linux平台版本暂未上传
 联系方式: QQ 515311445
 
 支付宝打赏码:
-https://user-images.githubusercontent.com/10462227/87418350-2029ca80-c604-11ea-8a83-6ad66ceeed27.png
+https://github.com/llxxhm/FisheyePlayer-for-VS2019/blob/master/FisheyePlayer/%E6%89%93%E8%B5%8F%E7%A0%81.png
 
 微信赞赏码:
 https://user-images.githubusercontent.com/10462227/87418266-f8d2fd80-c603-11ea-9bc0-cbafa24facd5.png
